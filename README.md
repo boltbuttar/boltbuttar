@@ -12,17 +12,17 @@ Drop a follow, and I’ll follow you back—let’s learn together! 😃
 
 ## 📜 Profile Overview:
 
-![Profile Views](https://komarev.com/ghpvc/?username=furqanbuttar&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=boltbuttar&label=Profile%20Views&color=blue&style=flat)
 
-### 🏆 GitHub Achievements:
+### � GitHub Achievements:
 
-<img src="https://github-profile-trophy.vercel.app/?username=furqanbuttar&theme=onedark&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=boltbuttar&theme=onedark&margin-w=15&margin-h=15" />
 
 ### 🔥 GitHub Stats:
 
-![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqanbuttar&show_icons=true&theme=radical)
+![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boltbuttar&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqanbuttar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boltbuttar&layout=compact&theme=radical)
 
 ---
 
@@ -35,6 +35,10 @@ Drop a follow, and I’ll follow you back—let’s learn together! 😃
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" />
 </p>
