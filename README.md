@@ -1,4 +1,3 @@
-
 ⚡ Furqan Asghar Buttar | Redefining The Future of AI & Tech
 
 <p align="center">
@@ -7,27 +6,39 @@
 
 
 
-💡 Turning ideas into reality, one algorithm at a time.
-🧠 Merging AI & Brain-Computer Interfaces to push human potential beyond limits.
-🎯 Building an AI-powered learning platform to transform education in Pakistan.
+🔭 Exploring the impossible:
 
-If you believe in the power of AI, automation, and mind-to-text interaction, let’s connect & build something extraordinary together.
+🚀 AI-powered Learning Platforms for the future of education
+
+🧠 Mind-to-Text Interfaces (Brain-Computer Interface + AI)
+
+🤖 Machine Learning & AI-Driven Automation
+
+🔥 Revolutionizing software development with scalable, intelligent systems
+
+
+💡 If you believe in the power of AI, BCI, and next-gen tech, let’s innovate together!
 
 
 ---
 
 🌍 Beyond Code: A Vision for the Future
 
-I’m not here just to write code—I’m here to rewrite the future.
+🎯 Mission:
+I don’t just write code—I write the future.
 
-🚀 Developing an AI-powered Learning Platform to revolutionize education in Pakistan.
+💡 Building an AI-powered ecosystem that transforms learning, productivity, and human-machine interaction.
 
-🧠 Building a Mind-to-Text System (Brain-Computer Interface + AI) to convert thoughts into text/actions.
+⚡ What I’m working on:
 
-🤖 Exploring AI, Automation, and Software Engineering to create intelligent, scalable systems.
+AI that teaches & explains complex concepts better than humans.
+
+Brain-Computer Interfaces that convert thoughts into text & actions.
+
+Scalable AI solutions that automate and enhance real-world applications.
 
 
-If you’re obsessed with innovation, fascinated by AI, and driven to change the world, we need to talk.
+🚀 Dream big, build bigger.
 
 
 ---
@@ -35,10 +46,17 @@ If you’re obsessed with innovation, fascinated by AI, and driven to change the
 🏆 GitHub Domination
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=boltbuttar&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=boltbuttar&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boltbuttar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boltbuttar&theme=tokyonight&hide_border=true" width="49%"/>  
+</p>
+---
+
+📊 Activity Graph: My Coding Pulse
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boltbuttar&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff" />
 </p>
 ---
 
@@ -47,6 +65,24 @@ If you’re obsessed with innovation, fascinated by AI, and driven to change the
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mongodb,mysql,linux,docker,vscode,eclipse,figma" />
 </p>
+---
+
+🎭 Fun Facts & Easter Eggs
+
+🎮 When not coding, I’m:
+
+Gaming like a true warrior (probably losing though).
+
+Exploring AI theories that no one dares to touch.
+
+Convincing my Labrador that he's not the boss of me (he is).
+
+
+🚀 Secret Weapon: 24/7 caffeine supply & late-night coding sprees.
+
+😎 My Philosophy: Code. Sleep. Dream of AI taking over. Repeat.
+
+
 ---
 
 🚀 Currently Exploring
@@ -63,7 +99,7 @@ If you’re obsessed with innovation, fascinated by AI, and driven to change the
 
 ---
 
-📌 Let’s Connect & Innovate!
+🎯 Let’s Connect & Innovate!
 
 <p align="center">
   <a href="www.linkedin.com/in/furqan-buttar-2a0808230">
@@ -78,5 +114,4 @@ If you’re obsessed with innovation, fascinated by AI, and driven to change the
 </p>
 ---
 
-🚀 Drop a follow, let’s push boundaries and build the impossible!
-
+🔥 Follow me. Let’s push boundaries and build the impossible!
