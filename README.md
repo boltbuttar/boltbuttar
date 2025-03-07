@@ -1,105 +1,97 @@
-⚡ Furqan Asghar Buttar | Redefining The Future of AI & Tech
+# ⚡ Furqan Asghar Buttar | Engineering the Future of AI & Tech
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=🚀+Building+AI-powered+Futures!+;🤖+Transforming+Thoughts+Into+Reality+;🔥+Breaking+Barriers+in+Software+Engineering!;">
-</p>> "The future belongs to those who code it." – Me, probably 😎
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=0FF0FC&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Architecting+the+Future+with+AI+%26+BCI!;%F0%9F%A7%A0+Decoding+Human+Thoughts+into+Reality!;%F0%9F%92%A5+Redefining+Software+Engineering!">
+</p>
 
-
-
-🔭 Exploring the impossible:
-
-🚀 AI-powered Learning Platforms for the future of education
-
-🧠 Mind-to-Text Interfaces (Brain-Computer Interface + AI)
-
-🤖 Machine Learning & AI-Driven Automation
-
-🔥 Revolutionizing software development with scalable, intelligent systems
-
-
-💡 If you believe in the power of AI, BCI, and next-gen tech, let’s innovate together!
-
+> "The future doesn't wait. I build it." – Me, probably 😎
 
 ---
 
-🌍 Beyond Code: A Vision for the Future
+## 🌌 Reimagining the Future with AI & BCI
 
-🎯 Mission:
-I don’t just write code—I write the future.
+🚀 **AI-Powered Learning Systems** – Elevating education through world-class AI-driven lectures.
 
-💡 Building an AI-powered ecosystem that transforms learning, productivity, and human-machine interaction.
+🧠 **Mind-to-Text Interfaces** – Merging Brain-Computer Interfaces (BCI) with AI to decode human thoughts into actions.
 
-⚡ What I’m working on:
+🤖 **AI-Driven Automation** – Automating workflows with intelligent systems that evolve over time.
 
-AI that teaches & explains complex concepts better than humans.
+🔥 **Revolutionizing Software Engineering** – Engineering scalable, next-gen AI architectures.
 
-Brain-Computer Interfaces that convert thoughts into text & actions.
+💡 **Pioneering the Convergence of AI & Neuroscience** – Breaking barriers where mind meets machine.
 
-Scalable AI solutions that automate and enhance real-world applications.
-
-
-🚀 Dream big, build bigger.
-
+> If you believe in the power of AI, BCI, and next-gen tech, let's innovate together. 🚀
 
 ---
 
-🏆 GitHub Domination
+## 🌍 Beyond Code: A Mission for the Future
+
+🎯 **Mission:**
+> "I don't just write code—I write the blueprint for the future."
+
+💡 **Vision:**
+- AI that educates, inspires, and evolves beyond human expertise.
+- BCI-powered interactions, enabling direct communication between minds and machines.
+- Scalable AI solutions that seamlessly integrate with real-world applications.
+
+🚀 **Dream Big. Build Bigger.**
+
+---
+
+## 🏆 GitHub Excellence Unlocked
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=boltbuttar&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boltbuttar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boltbuttar&theme=tokyonight&hide_border=true" width="49%"/>  
 </p>
+
 ---
 
-📊 Activity Graph: My Coding Pulse
+## 📊 My AI-Powered Coding Pulse
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boltbuttar&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boltbuttar&theme=github_dark" />
 </p>
 ---
 
-⚙️ Tech Arsenal: Tools of the Future
+## ⚙️ The Tech Arsenal: Shaping Tomorrow
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mongodb,mysql,linux,docker,vscode,eclipse,figma" />
 </p>
----
-
-🎭 Fun Facts & Easter Eggs
-
-🎮 When not coding, I’m:
-
-Gaming like a true warrior (probably losing though).
-
-Exploring AI theories that no one dares to touch.
-
-Convincing my Labrador that he's not the boss of me (he is).
-
-
-🚀 Secret Weapon: 24/7 caffeine supply & late-night coding sprees.
-
-😎 My Philosophy: Code. Sleep. Dream of AI taking over. Repeat.
-
 
 ---
 
-🚀 Currently Exploring
+## 🎭 Fun Facts & AI Easter Eggs
 
-🔥 AI-powered Mind-to-Text Interaction
+🎮 **When I’m not coding, I’m:**
+- Gaming like an AI-enhanced warrior (probably still losing, though).
+- Exploring AI theories that most wouldn't dare touch.
+- Trying (and failing) to convince my Labrador that he's not the boss of me. 🐶
 
-🤖 Machine Learning & Data Science
+🚀 **Secret Weapon:** A bottomless caffeine supply & late-night coding sprees.
 
-🎓 AI-driven Educational Platforms
-
-🧠 Brain-Computer Interface Research
-
-
+😎 **Philosophy:** Code. Sleep. Dream of AI supremacy. Repeat.
 
 ---
 
-🎯 Let’s Connect & Innovate!
+## 🔥 Current Innovations
+
+🧠 **Mind-to-Text Interaction** – AI-powered thought decoding systems.
+
+🤖 **Machine Learning & Data Science** – Next-gen AI models.
+
+🎓 **AI-driven Educational Platforms** – Teaching the future, today.
+
+🌐 **Brain-Computer Interface Research** – Merging cognition with computation.
+
+---
+
+## 🎯 Let’s Connect & Innovate!
 
 <p align="center">
   <a href="www.linkedin.com/in/furqan-buttar-2a0808230">
@@ -112,6 +104,7 @@ Convincing my Labrador that he's not the boss of me (he is).
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ---
 
-🔥 Follow me. Let’s push boundaries and build the impossible!
+🔥 **Follow me. Let's break barriers, push limits, and build the impossible!**
